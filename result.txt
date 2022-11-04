@@ -1,0 +1,58 @@
+App render
+App render end
+
+Child 1 render
+Child 1 render end
+
+Child 2 render
+Child 2 render end
+
+Child 1 useLayoutEffect call
+Child 2 useLayoutEffect call
+App useEffectLayout call
+
+Child 1 useEffect call
+Child 2 useEffect call
+App useEffect call
+
+Child 1 useLayoutEffect cleanup call
+Child 2 useLayoutEffect cleanup call
+App useEffectLayout cleanup call
+
+Child 1 useEffect cleanup call
+Child 2 useEffect cleanup call
+App useEffect cleanup call
+
+Child 1 useLayoutEffect call
+Child 2 useLayoutEffect call
+App useEffectLayout call
+
+Child 1 useEffect call
+Child 2 useEffect call
+App useEffect call
+
+# After set state
+App render
+App render end
+
+Child 1 render
+Child 1 render end
+
+Child 2 render
+Child 2 render end
+
+Child 1 useLayoutEffect cleanup call
+Child 2 useLayoutEffect cleanup call
+App useEffectLayout cleanup call
+
+Child 1 useLayoutEffect call
+Child 2 useLayoutEffect call
+App useEffectLayout call
+
+Child 1 useEffect cleanup call
+Child 2 useEffect cleanup call
+App useEffect cleanup call
+
+Child 1 useEffect call
+Child 2 useEffect call
+App useEffect call
